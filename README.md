@@ -1,5 +1,5 @@
 # add .env file
-include
+## include the following parameters 
 * DATABASE = 
 * DATABASE_USERNAME = 
 * DATABASE_PASSWORD = 
